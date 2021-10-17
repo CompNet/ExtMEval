@@ -1,2 +1,2 @@
-# ExtMEval
+# ExtMeasEval
 Characterization of Partition Comparison Measures

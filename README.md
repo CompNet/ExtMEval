@@ -17,6 +17,8 @@ This set of `R` scripts corresponds to the following paper: [Arınık'21]
 
 We generate our data in a fully parametric way in order to get a greater control. See *[Arınık'21]* for more details.
 
+Our data, as well as our results and figures, are publicly available on [FigShare](https://doi.org/10.6084/m9.figshare.13109813)
+
 ## Available evaluation measures
 
 Note that unnormalized measures, such as MI and VI, should not be considered in our evaluation framework. Moreover, we slightly adjust the calculation of ARI in order that it gives a non-negative value in the range of [0,1]. Note that In the context of our experiments, it was always positive (no additional change was required). In practice it is very rare to get negative values for ARI, though.
